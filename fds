@@ -1,0 +1,13 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+
+int main() {
+    // Write C++ code here
+    std:: string firstname,lastname;
+    std:: cout<<"enter firstname : ";
+    std:: cin>>firstname;
+    std:: cout<<"enter secondname: ";
+    std:: cin>>lastname;
+    std:: cout<<lastname<<" "<<firstname<<"\n";
+    return 0;
+}
